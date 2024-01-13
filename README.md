@@ -13,7 +13,7 @@ There are about 11 queries that range from simple ones with select, where, order
 
 In this project I calculated real data with SQL queries like percentage of infected people per whole population by country, percentage of deaths per infected population and per whole country population and much more.
 
-For SQL, CVS and XLSX files please go to the branch [SQL_Data_Exploration](https://github.com/Bajlando-py/Data-Analysis-SQL-Projects/tree/SQL_Data_Exploration) and open the folder **Project-1 SQL_Data_Exploration.**
+For SQL, CVS and XLSX files please go to the branch [SQL_Data_Exploration](https://github.com/Bajlando-py/Data-Analysis-SQL-Projects/tree/SQL_Data_Exploration) and open the folder **Project-1 SQL_Data_Exploration** or you can go straight to SQL file [here.](https://github.com/Bajlando-py/Data-Analysis-SQL-Projects/blob/SQL_Data_Exploration/Project-1%20SQL_Data_Exploration/project1SQLDataExploration.sql)
 
 ---
 
@@ -22,5 +22,6 @@ For SQL, CVS and XLSX files please go to the branch [SQL_Data_Exploration](https
 #### Technologies used
 + SSMS
 + SQL
-+ XLSX and CVS files
++ XLSX
 
+In this project I didn't do any data cleaning in excel. Instead I used SQL commands like update, set, convert, alter table/column, join to do data cleaning and data type converting.
